@@ -95,6 +95,7 @@ main{
     padding-top: 350px;
     padding-bottom: 30px;
     background-repeat: no-repeat;
+    background-size:100vw;
 }
 .console__bars{
     display: flex;
